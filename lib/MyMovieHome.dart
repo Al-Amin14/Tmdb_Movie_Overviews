@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:moviesappapi/trending_moivies.dart';
+import 'package:moviesappapi/Movies_Sectoin.dart';
 import 'package:tmdb_api/tmdb_api.dart';
 
 class MyMovieHome extends StatefulWidget {
